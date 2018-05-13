@@ -47,3 +47,5 @@ Includes a Unity port of MIConvexHull, under the MIT License.
     
         Finish Line
 
+# Consider buying me a coffee if you like my work (click the image)
+[![Foo](coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
